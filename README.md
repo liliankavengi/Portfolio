@@ -2,7 +2,7 @@ Kavengi Lilian- Portfolio Website
 A clean, responsive personal portfolio website built with pure HTML and CSS.
 
 🌐 Live Demo
-View Live Website lhttp://127.0.0.1:5500/home.html
+View Live Website http://127.0.0.1:5500/home.html
 
 🎯 About the Project
 This portfolio website serves as a professional showcase for Kavengi Lilian, a frontend developer with a background in Business Information Technology. The site demonstrates clean coding practices, responsive design principles, and modern web development techniques using only vanilla HTML and CSS.
